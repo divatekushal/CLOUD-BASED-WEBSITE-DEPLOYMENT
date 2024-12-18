@@ -39,6 +39,3 @@ By following this structured approach, I successfully deployed and configured a 
 - AWS Application Load Balancer (ALB)
 - Target Group and Load Balancing
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
